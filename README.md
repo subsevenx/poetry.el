@@ -11,7 +11,7 @@ I commented out line 244. When enabled, the line breaks visual formatting in `or
 
 So far, it works fine (Jinx seems to be highlighting the syllables as mispellings though) commented out, but if you forsee using `text-mode` mainly, I would recommend forking and uncommenting it.
 
-I may explore
+I may explore a hook to re-enable in text-mode.
 
 ## How to use?
 
