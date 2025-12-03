@@ -241,7 +241,7 @@
 
 ;; You need this if you want poetry mode to work with text mode.
 ;; If not, comment it out.  Side-effects unknown at this point.
- (add-hook 'text-mode-hook (lambda () (setq font-lock-defaults '(nil))))
+;; (add-hook 'text-mode-hook (lambda () (setq font-lock-defaults '(nil))))
 
  (require 'linum)
 
