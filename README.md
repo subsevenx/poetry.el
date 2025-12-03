@@ -20,7 +20,7 @@ I may explore a hook to re-enable in text-mode.
 TODO: I will write this soon.
 
 ### Emacs Install
-If you're using Emacs 29+, I **highly** recommend you use `package-vc`:
+If you're using Emacs 29+, I **highly** recommend you use `package-vc`. This is built-in. You can just copy the following:
 
 ```el
 (use-package poetry
